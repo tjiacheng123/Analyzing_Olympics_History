@@ -4,8 +4,6 @@ We will be utilizing a rich dataset on the 120 years of Olympics history. It has
 
 Using sql, we will attempt to answer the following questions:
 
-*The problem statements below have been kindly provided by techTFQ and can be found in this [link](https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset).*
-
 1. How many olympics games have been held?
 2. List down all Olympics games held so far.
 3. Mention the total no of nations who participated in each olympics game?
@@ -26,6 +24,8 @@ Using sql, we will attempt to answer the following questions:
 18. Which countries have never won gold medal but have won silver/bronze medals?
 19. In which Sport/event, India has won highest medals.
 20. Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
+
+*The problem statements above have been kindly provided by techTFQ and can be found in this [link](https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset).*
 
 We will writing the queries on a Jupyter notebook environment and connect it to a local PostgreSQL database. Please find the SQL queries to the above questions [here]()
 
