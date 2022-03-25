@@ -3,6 +3,7 @@
 We will be utilizing a rich dataset on the 120 years of Olympics history. It has information on the atheletes that have ever taken part in each of the Olympic event and the medals that have been awarded to them. The Olympic event is held every 4 years. The winter and summer Olympic games had traditionally been held in the same year up till 1992 where they delayed the winter Olympics by 2 years. From 1992 onwards, the Olympics games are held every 2 years, alternating between summer and winter olympics.
 
 Using sql, we will attempt to answer the following questions:
+
 *The problem statements below have been kindly provided by techTFQ and can be found in this [link](https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset).*
 
 - Q1. How many olympics games have been held?
