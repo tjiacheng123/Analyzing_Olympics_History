@@ -4,7 +4,7 @@ We will be utilizing a rich dataset on the 120 years of Olympics history. It has
 
 Using sql, we will attempt to answer the following questions:
 
-1. How many olympics games have been held?
+*1. How many olympics games have been held?*
 2. List down all Olympics games held so far.
 3. Mention the total no of nations who participated in each olympics game?
 4. Which year saw the highest and lowest no of countries participating in olympics?
