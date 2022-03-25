@@ -6,10 +6,10 @@ Using sql, we will attempt to answer the following questions:
 
 *The problem statements below have been kindly provided by techTFQ and can be found in this [link](https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset).*
 
-Q1. How many olympics games have been held?
-Q2. List down all Olympics games held so far.
-Q3. Mention the total no of nations who participated in each olympics game?
-Q4. Which year saw the highest and lowest no of countries participating in olympics?
+- Q1. How many olympics games have been held?
+- Q2. List down all Olympics games held so far.
+- Q3. Mention the total no of nations who participated in each olympics game?
+- Q4. Which year saw the highest and lowest no of countries participating in olympics?
 Q5. Which nation has participated in all of the olympic games?
 Q6. Identify the sport which was played in all summer olympics.
 Q7. Which Sports were just played only once in the olympics?
