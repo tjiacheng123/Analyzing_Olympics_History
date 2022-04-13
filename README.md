@@ -27,7 +27,7 @@ Using sql, we will attempt to answer the following questions:
 
 *The problem statements above have been kindly provided by techTFQ and can be found in this [link](https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset).*
 
-We will writing the queries on a Jupyter notebook environment and connect it to a local PostgreSQL database. Please find the SQL queries to the above questions [here](https://github.com/tjiacheng123/Analyzing_Olympics_History/blob/main/Analyzing_Olympics_History.ipynb). 
+We will be writing the queries on a Jupyter notebook environment and connect it to a local PostgreSQL database. Please find the SQL queries to the above questions [here](https://github.com/tjiacheng123/Analyzing_Olympics_History/blob/main/Analyzing_Olympics_History.ipynb). 
 
 The queries range from easy to complex and some of the notable clauses applied are:
 - Joining datasets using INNER JOIN and LEFT JOIN
