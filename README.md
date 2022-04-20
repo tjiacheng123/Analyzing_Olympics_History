@@ -1,6 +1,6 @@
 # Analyzing 120 years of Olympics History using SQL.
 
-A Tableau dashboard has been developed to visualize the statstics for each region. The dashboard can be found in this [link](https://public.tableau.com/app/profile/toon.jia.cheng/viz/Analyzing120yearsofOlympicsHistory/OlympicsHistoryt).
+A Tableau dashboard has been developed to visualize the statstics for each region. The dashboard can be found in this [link](https://public.tableau.com/app/profile/toon.jia.cheng/viz/Analyzing120yearsofOlympicsHistory/OlympicsHistory).
 
 We will be utilizing a rich dataset on the 120 years of Olympics history. It has information on the atheletes that have ever taken part in each of the Olympic event and the medals that have been awarded to them. The Olympic event is held every 4 years. The winter and summer Olympic games had traditionally been held in the same year up till 1992 where they delayed the winter Olympics by 2 years. From 1992 onwards, the Olympics games are held every 2 years, alternating between summer and winter olympics.
 
